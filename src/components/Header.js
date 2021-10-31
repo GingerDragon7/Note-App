@@ -19,6 +19,8 @@ function Header(props) {
 
 }
 
+<button onclick="myFunction()">New Note</button>
+
 
 const styles = StyleSheet.create({
 
